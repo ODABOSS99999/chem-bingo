@@ -1,4 +1,4 @@
-# Chem Bingo
+# Dieckmingo
 
 Public classroom bingo, no accounts required. The board is a square with 25 cells. Each daily card uses 25 randomly selected unique terms, without a free square.
 
